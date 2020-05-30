@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 5px 10px;
+    margin: 10px 10px;
+    background-color: whitesmoke;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+.homeButton {
+    display: flex;
+    padding: 10px;
+    background-color: lightgrey;
+    border: 2px;
+    border-color: lightgrey;
+    border-radius: 10px;
+    border-style: solid;
+    width: 100px;
+    justify-content: center;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.tagline {
+    font-style: italic;
+    padding: 10px 0;
+}
+
+.overview {
+    padding: 10px;
+}

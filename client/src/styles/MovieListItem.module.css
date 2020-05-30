@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 5px 10px;
+    margin: 10px 10px;
+    background-color: whitesmoke;
+    border: 2px;
+    border-radius: 10px;
+    border-color: grey;
+    border-style: solid;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+    font-weight: bold;
+}

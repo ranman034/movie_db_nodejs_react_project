@@ -1,0 +1,26 @@
+.searchBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 10px;;
+    background-color: whitesmoke;
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.searchTitle {
+    font-weight: bold;
+    justify-content: center;
+    padding: 10px 15px;
+}
+
+.button {
+    padding: 10px 15px;
+    margin-left: 10px;
+}
+
+.searchBox {
+    margin-left: 10px;
+    padding: 10px;
+}

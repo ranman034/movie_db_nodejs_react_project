@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: #e0e041;
+    width: 100%;
+    height: inherit;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+}
+
+.tagline {
+    font-style: italic;
+}
